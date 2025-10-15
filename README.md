@@ -16,5 +16,5 @@ This project will use python to study student responses from the CCM I.T. Depart
 ### Part 3 | Answer and Visualize Data:
 1) Loaded in and verified data from Part 2
 2) Determined the best way to answer Part 1 questions
-3) Manipulated data to use for answering questions 1-4 using pandas
+3) Manipulated data to use for answering questions 2-5 using pandas
 4) Created Various Bar and Pie Graphs (+ one cli output) to illusrtrate patterns and answer questions
