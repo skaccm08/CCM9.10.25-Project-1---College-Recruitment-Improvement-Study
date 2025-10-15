@@ -18,3 +18,4 @@ This project will use python to study student responses from the CCM I.T. Depart
 2) Determined the best way to answer Part 1 questions
 3) Manipulated data to use for answering questions 2-5 using pandas
 4) Created Various Bar and Pie Graphs (+ one cli output) to illusrtrate patterns and answer questions
+5) Analyzed charts / breakdown in markdown cells
