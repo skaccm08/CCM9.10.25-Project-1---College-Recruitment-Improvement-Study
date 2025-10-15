@@ -1,5 +1,5 @@
 # CCM9.10.25-Project-1---College-Recruitment-Improvement-Study
-This project will use python to study student responses from the CCM I.T. Department
+This project will use python to study student responses from the CCM I.T. Department (Non-Majors Ver)
 
 ### Part 1 | Questions:
 1) What are the top reasons for non-major students to attend CCM's I.T. department?
