@@ -1,93 +1,93 @@
-,course,motivation_required,motivation_currentskills,motivation_careeradv,motivation_careerchange,motivation_profdev,motivation_jobdisplace,motivation_relocation,motivation_cert,motivation_financial,motivation_personal,motivation_curiosity,event_openhouse,event_collegefair,hear_tv,hear_radio,age,interest_cyber,interest_appdev,interest_data,interest_gamedesign,interest_ai,interest_hardware&repair,interest_programming,interest_webdev
-0,CMP 126 Computer Technology and Applications,0,1,1,1,1,0,0,0,1,1,1,1,1,0,0,19-20,1,0,0,0,0,0,0,1
-1,CMP 126 Computer Technology and Applications,1,1,1,0,1,1,0,0,1,1,1,0,0,0,0,19-20,1,1,1,0,1,0,1,0
-2,CMP 126 Computer Technology and Applications,1,1,1,1,1,1,1,0,1,0,0,0,0,0,0,18 and younger,0,1,0,1,1,1,1,1
-3,CMP 126 Computer Technology and Applications,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,19-20,0,0,1,1,0,0,0,0
-4,CMP 101 Computer Information Literacy,1,1,1,0,1,0,0,0,0,1,1,0,0,1,0,19-20,0,0,0,0,0,0,0,0
-5,CMP 101 Computer Information Literacy,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,19-20,0,1,0,1,0,0,0,1
-6,CMP 101 Computer Information Literacy,0,1,1,0,1,0,0,0,0,1,1,0,0,0,0,19-20,0,0,0,1,0,0,0,0
-7,CMP 101 Computer Information Literacy,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,18 and younger,0,0,0,0,0,0,0,0
-8,CMP 126 Computer Technology and Applications,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19-20,0,0,1,0,0,1,0,0
-9,CMP 101 Computer Information Literacy,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19-20,0,0,0,0,0,0,0,0
-10,CMP 101 Computer Information Literacy,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,25-34,0,1,0,0,0,0,1,1
-11,CMP 135 Computer Concepts with Applications,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,21-24,0,0,0,0,0,0,0,0
-12,CMP 135 Computer Concepts with Applications,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,21-24,0,0,0,0,0,0,0,0
-13,CMP 135 Computer Concepts with Applications,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,21-24,0,0,0,0,0,0,0,0
-14,CMP 135 Computer Concepts with Applications,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,18 and younger,0,0,0,1,0,0,0,0
-15,CMP 135 Computer Concepts with Applications,1,1,1,0,1,1,0,0,0,1,1,0,0,0,0,19-20,0,0,0,0,1,0,0,0
-16,CMP 135 Computer Concepts with Applications,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,18 and younger,0,0,0,0,0,0,0,0
-17,CMP 135 Computer Concepts with Applications,1,1,0,0,0,1,0,0,1,1,0,0,0,0,0,18 and younger,0,0,0,0,0,0,0,0
-18,CMP 135 Computer Concepts with Applications,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,18 and younger,0,1,0,1,1,1,1,1
-19,CMP 135 Computer Concepts with Applications,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,19-20,0,0,1,0,1,1,1,0
-20,CMP 135 Computer Concepts with Applications,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,18 and younger,0,0,0,0,0,0,0,0
-21,CMP 135 Computer Concepts with Applications,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,19-20,0,0,0,0,0,0,0,0
-22,CMP 135 Computer Concepts with Applications,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,25-34,0,0,0,0,0,0,0,0
-23,CMP 101 Computer Information Literacy,1,1,1,0,1,0,0,0,1,1,1,0,0,0,0,25-34,1,0,0,0,0,0,0,0
-24,CMP 135 Computer Concepts with Applications,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,19-20,1,0,1,0,0,1,1,1
-25,CMP 135 Computer Concepts with Applications,1,1,1,0,0,0,0,0,0,1,1,1,0,0,0,18 and younger,0,0,0,1,0,0,0,0
-26,CMP 135 Computer Concepts with Applications,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,19-20,1,1,0,1,0,0,0,1
-27,CMP 135 Computer Concepts with Applications,1,1,1,0,1,0,0,0,1,1,1,1,0,0,0,19-20,0,0,0,0,0,0,1,0
-28,CMP 135 Computer Concepts with Applications,1,1,1,1,1,0,1,0,1,1,1,0,0,0,0,25-34,1,1,0,1,1,1,1,1
-29,CMP 135 Computer Concepts with Applications,1,1,1,0,1,0,0,0,0,1,1,0,0,0,0,21-24,0,0,1,0,0,0,0,0
-30,CMP 135 Computer Concepts with Applications,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,21-24,0,0,0,0,0,0,0,0
-31,CMP 135 Computer Concepts with Applications,1,0,1,0,1,0,0,0,0,1,1,0,0,0,0,18 and younger,1,0,1,1,0,0,0,0
-32,CMP 135 Computer Concepts with Applications,1,1,1,0,1,0,0,0,1,1,1,1,0,0,0,18 and younger,0,1,0,1,1,0,0,1
-33,CMP 101 Computer Information Literacy,1,1,1,1,1,1,0,0,1,0,1,0,0,0,0,35-64,1,0,1,0,0,1,0,0
-34,CMP 101 Computer Information Literacy,0,1,1,0,1,0,0,0,0,1,1,0,0,0,0,21-24,1,0,0,0,0,0,0,0
-35,CMP 135 Computer Concepts with Applications,1,1,1,1,1,1,1,0,1,1,1,0,0,0,0,19-20,0,0,0,0,0,0,0,0
-36,CMP 135 Computer Concepts with Applications,1,1,1,1,1,0,0,0,1,1,1,0,0,0,0,21-24,0,1,0,0,0,0,0,1
-37,CMP 135 Computer Concepts with Applications,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19-20,0,0,0,0,0,0,0,0
-38,CMP 135 Computer Concepts with Applications,0,1,1,0,1,0,0,0,1,1,1,0,0,0,0,19-20,1,0,0,0,0,0,0,0
-39,CMP 135 Computer Concepts with Applications,1,0,0,1,1,1,0,0,1,1,0,0,0,0,0,19-20,0,0,0,0,1,0,0,0
-40,CMP 135 Computer Concepts with Applications,1,1,1,0,1,1,1,0,0,1,1,0,0,0,0,21-24,0,0,0,0,1,0,1,1
-41,CMP 135 Computer Concepts with Applications,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,18 and younger,1,0,0,1,1,0,0,0
-42,CMP 135 Computer Concepts with Applications,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,19-20,0,0,0,0,0,0,0,0
-43,CMP 135 Computer Concepts with Applications,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,18 and younger,0,0,0,0,0,0,0,0
-44,CMP 135 Computer Concepts with Applications,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,25-34,1,1,1,1,1,1,1,1
-45,CMP 135 Computer Concepts with Applications,1,1,1,0,1,0,0,0,0,1,1,0,0,0,0,21-24,0,1,1,0,1,0,1,1
-46,CMP 135 Computer Concepts with Applications,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,21-24,0,0,0,0,0,0,0,0
-47,CMP 101 Computer Information Literacy,1,1,1,0,1,0,0,0,1,1,1,0,0,0,0,19-20,1,1,0,1,0,0,0,0
-48,CMP 135 Computer Concepts with Applications,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,19-20,0,0,0,1,1,0,0,0
-49,CMP 135 Computer Concepts with Applications,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,19-20,0,0,0,0,0,0,0,0
-50,CMP 101 Computer Information Literacy,1,1,1,1,1,1,0,0,0,1,1,1,0,0,0,19-20,1,1,1,1,1,1,1,1
-51,CMP 135 Computer Concepts with Applications,1,1,0,0,1,0,0,0,0,1,1,1,0,0,0,25-34,1,0,1,1,1,1,1,0
-52,CMP 126 Computer Technology and Applications,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,19-20,1,1,0,1,0,1,1,0
-53,CMP 101 Computer Information Literacy,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,35-64,0,0,0,0,0,0,0,0
-54,CMP 126 Computer Technology and Applications,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,19-20,0,0,1,0,0,1,0,0
-55,CMP 101 Computer Information Literacy,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,25-34,0,0,0,0,0,0,0,0
-56,CMP 101 Computer Information Literacy,1,1,1,0,1,0,0,0,0,1,1,0,0,0,0,18 and younger,0,1,0,1,1,0,0,0
-57,CMP 126 Computer Technology and Applications,1,1,0,0,1,1,0,0,1,1,1,0,0,0,0,19-20,1,1,1,1,1,1,1,0
-58,CMP 126 Computer Technology and Applications,1,1,1,1,1,1,1,0,0,0,1,1,0,0,0,21-24,1,1,0,1,1,0,1,0
-59,CMP 135 Computer Concepts with Applications,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,19-20,1,1,1,0,0,0,1,1
-60,CMP 101 Computer Information Literacy,1,1,1,0,1,1,1,0,1,1,1,0,0,0,0,21-24,1,1,1,0,1,0,1,1
-61,CMP 126 Computer Technology and Applications,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19-20,0,0,0,0,0,0,0,0
-62,CMP 126 Computer Technology and Applications,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,19-20,0,0,0,0,0,0,0,0
-63,CMP 135 Computer Concepts with Applications,1,1,0,0,1,0,0,0,0,1,1,0,0,0,0,25-34,0,0,0,0,0,0,0,0
-64,CMP 126 Computer Technology and Applications,0,1,1,1,0,0,0,1,0,1,1,0,0,0,0,25-34,1,0,1,1,1,1,0,0
-65,CMP 135 Computer Concepts with Applications,1,1,1,0,1,1,0,0,0,1,0,1,1,0,0,19-20,1,0,1,0,1,1,0,0
-66,CMP 126 Computer Technology and Applications,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,19-20,0,1,0,1,0,0,0,0
-67,CMP 126 Computer Technology and Applications,0,1,1,1,1,1,0,0,0,1,1,0,0,0,0,19-20,0,0,1,0,0,1,1,0
-68,CMP 101 Computer Information Literacy,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,18 and younger,1,1,0,1,1,0,1,0
-69,CMP 126 Computer Technology and Applications,1,1,1,0,1,1,0,0,0,1,0,1,0,0,0,19-20,0,0,0,0,0,0,0,1
-70,CMP 126 Computer Technology and Applications,1,1,0,0,0,0,0,0,0,0,1,1,1,0,0,19-20,0,0,0,0,0,0,0,0
-71,CMP 126 Computer Technology and Applications,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,19-20,0,0,0,0,0,0,0,0
-72,CMP 101 Computer Information Literacy,1,1,0,0,1,0,0,0,1,1,1,0,0,0,0,21-24,0,0,0,0,0,0,0,0
-73,CMP 135 Computer Concepts with Applications,1,1,1,0,0,0,0,0,0,1,1,0,0,0,0,21-24,1,0,0,0,1,1,0,1
-74,CMP 126 Computer Technology and Applications,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0,19-20,0,0,0,1,0,0,0,0
-75,CMP 101 Computer Information Literacy,1,0,0,0,1,0,0,0,0,1,1,1,0,0,0,19-20,0,0,0,0,0,0,0,0
-76,CMP 101 Computer Information Literacy,1,1,1,1,1,1,1,0,0,1,1,0,0,0,0,35-64,0,0,0,0,0,1,0,1
-77,CMP 101 Computer Information Literacy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35-64,0,0,0,0,0,1,0,0
-78,CMP 126 Computer Technology and Applications,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,19-20,1,0,0,0,0,0,0,0
-79,CMP 126 Computer Technology and Applications,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,25-34,1,1,0,0,1,0,0,1
-80,CMP 126 Computer Technology and Applications,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,35-64,0,0,0,0,0,0,0,0
-81,CMP 126 Computer Technology and Applications,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,21-24,0,0,0,0,0,0,0,0
-82,CMP 126 Computer Technology and Applications,1,1,1,0,1,1,1,1,1,1,1,0,0,0,0,19-20,1,0,0,1,0,1,0,0
-83,CMP 126 Computer Technology and Applications,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19-20,0,0,0,0,0,0,0,0
-84,CMP 126 Computer Technology and Applications,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,19-20,0,0,0,0,0,0,0,0
-85,CMP 126 Computer Technology and Applications,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,35-64,1,0,1,0,1,0,0,0
-86,CMP 126 Computer Technology and Applications,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,25-34,1,1,1,0,1,1,1,1
-87,CMP 101 Computer Information Literacy,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,21-24,1,0,0,1,0,0,1,0
-88,CMP 126 Computer Technology and Applications,1,1,1,0,1,1,0,0,0,1,1,1,0,0,0,19-20,1,1,0,0,0,0,0,1
-89,CMP 126 Computer Technology and Applications,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,19-20,0,0,0,1,1,0,0,0
-90,CMP 101 Computer Information Literacy,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,19-20,0,0,0,0,0,0,0,0
-91,CMP 126 Computer Technology and Applications,1,1,1,0,1,0,0,0,0,1,1,0,0,0,0,21-24,0,0,0,0,1,1,0,0
+,course,motivation_required,motivation_currentskills,motivation_careeradv,motivation_careerchange,motivation_profdev,motivation_jobdisplace,motivation_relocation,motivation_cert,motivation_financial,motivation_personal,motivation_curiosity,event_openhouse,event_collegefair,event_on-campus-infosession,event_women-who-dare,hear_tv,hear_radio,age,interest_cyber,interest_appdev,interest_data,interest_gamedesign,interest_ai,interest_hardware&repair,interest_programming,interest_webdev
+0,CMP 126 Computer Technology and Applications,0,1,1,1,1,0,0,0,1,1,1,1,1,0,0,0,0,19-20,1,0,0,0,0,0,0,1
+1,CMP 126 Computer Technology and Applications,1,1,1,0,1,1,0,0,1,1,1,0,0,0,0,0,0,19-20,1,1,1,0,1,0,1,0
+2,CMP 126 Computer Technology and Applications,1,1,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,18 and younger,0,1,0,1,1,1,1,1
+3,CMP 126 Computer Technology and Applications,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,19-20,0,0,1,1,0,0,0,0
+4,CMP 101 Computer Information Literacy,1,1,1,0,1,0,0,0,0,1,1,0,0,0,0,1,0,19-20,0,0,0,0,0,0,0,0
+5,CMP 101 Computer Information Literacy,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,19-20,0,1,0,1,0,0,0,1
+6,CMP 101 Computer Information Literacy,0,1,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,19-20,0,0,0,1,0,0,0,0
+7,CMP 101 Computer Information Literacy,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,18 and younger,0,0,0,0,0,0,0,0
+8,CMP 126 Computer Technology and Applications,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19-20,0,0,1,0,0,1,0,0
+9,CMP 101 Computer Information Literacy,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19-20,0,0,0,0,0,0,0,0
+10,CMP 101 Computer Information Literacy,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25-34,0,1,0,0,0,0,1,1
+11,CMP 135 Computer Concepts with Applications,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,21-24,0,0,0,0,0,0,0,0
+12,CMP 135 Computer Concepts with Applications,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,21-24,0,0,0,0,0,0,0,0
+13,CMP 135 Computer Concepts with Applications,1,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,21-24,0,0,0,0,0,0,0,0
+14,CMP 135 Computer Concepts with Applications,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,18 and younger,0,0,0,1,0,0,0,0
+15,CMP 135 Computer Concepts with Applications,1,1,1,0,1,1,0,0,0,1,1,0,0,0,0,0,0,19-20,0,0,0,0,1,0,0,0
+16,CMP 135 Computer Concepts with Applications,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,18 and younger,0,0,0,0,0,0,0,0
+17,CMP 135 Computer Concepts with Applications,1,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,18 and younger,0,0,0,0,0,0,0,0
+18,CMP 135 Computer Concepts with Applications,1,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,18 and younger,0,1,0,1,1,1,1,1
+19,CMP 135 Computer Concepts with Applications,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,19-20,0,0,1,0,1,1,1,0
+20,CMP 135 Computer Concepts with Applications,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,18 and younger,0,0,0,0,0,0,0,0
+21,CMP 135 Computer Concepts with Applications,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,19-20,0,0,0,0,0,0,0,0
+22,CMP 135 Computer Concepts with Applications,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,25-34,0,0,0,0,0,0,0,0
+23,CMP 101 Computer Information Literacy,1,1,1,0,1,0,0,0,1,1,1,0,0,0,0,0,0,25-34,1,0,0,0,0,0,0,0
+24,CMP 135 Computer Concepts with Applications,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,19-20,1,0,1,0,0,1,1,1
+25,CMP 135 Computer Concepts with Applications,1,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,18 and younger,0,0,0,1,0,0,0,0
+26,CMP 135 Computer Concepts with Applications,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,19-20,1,1,0,1,0,0,0,1
+27,CMP 135 Computer Concepts with Applications,1,1,1,0,1,0,0,0,1,1,1,1,0,1,0,0,0,19-20,0,0,0,0,0,0,1,0
+28,CMP 135 Computer Concepts with Applications,1,1,1,1,1,0,1,0,1,1,1,0,0,1,0,0,0,25-34,1,1,0,1,1,1,1,1
+29,CMP 135 Computer Concepts with Applications,1,1,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,21-24,0,0,1,0,0,0,0,0
+30,CMP 135 Computer Concepts with Applications,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,21-24,0,0,0,0,0,0,0,0
+31,CMP 135 Computer Concepts with Applications,1,0,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,18 and younger,1,0,1,1,0,0,0,0
+32,CMP 135 Computer Concepts with Applications,1,1,1,0,1,0,0,0,1,1,1,1,0,1,0,0,0,18 and younger,0,1,0,1,1,0,0,1
+33,CMP 101 Computer Information Literacy,1,1,1,1,1,1,0,0,1,0,1,0,0,0,0,0,0,35-64,1,0,1,0,0,1,0,0
+34,CMP 101 Computer Information Literacy,0,1,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,21-24,1,0,0,0,0,0,0,0
+35,CMP 135 Computer Concepts with Applications,1,1,1,1,1,1,1,0,1,1,1,0,0,0,0,0,0,19-20,0,0,0,0,0,0,0,0
+36,CMP 135 Computer Concepts with Applications,1,1,1,1,1,0,0,0,1,1,1,0,0,0,0,0,0,21-24,0,1,0,0,0,0,0,1
+37,CMP 135 Computer Concepts with Applications,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19-20,0,0,0,0,0,0,0,0
+38,CMP 135 Computer Concepts with Applications,0,1,1,0,1,0,0,0,1,1,1,0,0,0,0,0,0,19-20,1,0,0,0,0,0,0,0
+39,CMP 135 Computer Concepts with Applications,1,0,0,1,1,1,0,0,1,1,0,0,0,0,0,0,0,19-20,0,0,0,0,1,0,0,0
+40,CMP 135 Computer Concepts with Applications,1,1,1,0,1,1,1,0,0,1,1,0,0,0,0,0,0,21-24,0,0,0,0,1,0,1,1
+41,CMP 135 Computer Concepts with Applications,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,18 and younger,1,0,0,1,1,0,0,0
+42,CMP 135 Computer Concepts with Applications,1,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,19-20,0,0,0,0,0,0,0,0
+43,CMP 135 Computer Concepts with Applications,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,18 and younger,0,0,0,0,0,0,0,0
+44,CMP 135 Computer Concepts with Applications,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,25-34,1,1,1,1,1,1,1,1
+45,CMP 135 Computer Concepts with Applications,1,1,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,21-24,0,1,1,0,1,0,1,1
+46,CMP 135 Computer Concepts with Applications,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,21-24,0,0,0,0,0,0,0,0
+47,CMP 101 Computer Information Literacy,1,1,1,0,1,0,0,0,1,1,1,0,0,0,0,0,0,19-20,1,1,0,1,0,0,0,0
+48,CMP 135 Computer Concepts with Applications,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,19-20,0,0,0,1,1,0,0,0
+49,CMP 135 Computer Concepts with Applications,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,19-20,0,0,0,0,0,0,0,0
+50,CMP 101 Computer Information Literacy,1,1,1,1,1,1,0,0,0,1,1,1,0,1,0,0,0,19-20,1,1,1,1,1,1,1,1
+51,CMP 135 Computer Concepts with Applications,1,1,0,0,1,0,0,0,0,1,1,1,0,1,0,0,0,25-34,1,0,1,1,1,1,1,0
+52,CMP 126 Computer Technology and Applications,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,19-20,1,1,0,1,0,1,1,0
+53,CMP 101 Computer Information Literacy,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,35-64,0,0,0,0,0,0,0,0
+54,CMP 126 Computer Technology and Applications,1,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,19-20,0,0,1,0,0,1,0,0
+55,CMP 101 Computer Information Literacy,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,25-34,0,0,0,0,0,0,0,0
+56,CMP 101 Computer Information Literacy,1,1,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,18 and younger,0,1,0,1,1,0,0,0
+57,CMP 126 Computer Technology and Applications,1,1,0,0,1,1,0,0,1,1,1,0,0,0,0,0,0,19-20,1,1,1,1,1,1,1,0
+58,CMP 126 Computer Technology and Applications,1,1,1,1,1,1,1,0,0,0,1,1,0,0,0,0,0,21-24,1,1,0,1,1,0,1,0
+59,CMP 135 Computer Concepts with Applications,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,19-20,1,1,1,0,0,0,1,1
+60,CMP 101 Computer Information Literacy,1,1,1,0,1,1,1,0,1,1,1,0,0,0,0,0,0,21-24,1,1,1,0,1,0,1,1
+61,CMP 126 Computer Technology and Applications,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19-20,0,0,0,0,0,0,0,0
+62,CMP 126 Computer Technology and Applications,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,19-20,0,0,0,0,0,0,0,0
+63,CMP 135 Computer Concepts with Applications,1,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,25-34,0,0,0,0,0,0,0,0
+64,CMP 126 Computer Technology and Applications,0,1,1,1,0,0,0,1,0,1,1,0,0,0,0,0,0,25-34,1,0,1,1,1,1,0,0
+65,CMP 135 Computer Concepts with Applications,1,1,1,0,1,1,0,0,0,1,0,1,1,1,0,0,0,19-20,1,0,1,0,1,1,0,0
+66,CMP 126 Computer Technology and Applications,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,19-20,0,1,0,1,0,0,0,0
+67,CMP 126 Computer Technology and Applications,0,1,1,1,1,1,0,0,0,1,1,0,0,0,0,0,0,19-20,0,0,1,0,0,1,1,0
+68,CMP 101 Computer Information Literacy,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,18 and younger,1,1,0,1,1,0,1,0
+69,CMP 126 Computer Technology and Applications,1,1,1,0,1,1,0,0,0,1,0,1,0,1,0,0,0,19-20,0,0,0,0,0,0,0,1
+70,CMP 126 Computer Technology and Applications,1,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,19-20,0,0,0,0,0,0,0,0
+71,CMP 126 Computer Technology and Applications,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,19-20,0,0,0,0,0,0,0,0
+72,CMP 101 Computer Information Literacy,1,1,0,0,1,0,0,0,1,1,1,0,0,1,0,0,0,21-24,0,0,0,0,0,0,0,0
+73,CMP 135 Computer Concepts with Applications,1,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,21-24,1,0,0,0,1,1,0,1
+74,CMP 126 Computer Technology and Applications,1,1,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,19-20,0,0,0,1,0,0,0,0
+75,CMP 101 Computer Information Literacy,1,0,0,0,1,0,0,0,0,1,1,1,0,1,0,0,0,19-20,0,0,0,0,0,0,0,0
+76,CMP 101 Computer Information Literacy,1,1,1,1,1,1,1,0,0,1,1,0,0,0,0,0,0,35-64,0,0,0,0,0,1,0,1
+77,CMP 101 Computer Information Literacy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35-64,0,0,0,0,0,1,0,0
+78,CMP 126 Computer Technology and Applications,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,19-20,1,0,0,0,0,0,0,0
+79,CMP 126 Computer Technology and Applications,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,25-34,1,1,0,0,1,0,0,1
+80,CMP 126 Computer Technology and Applications,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,35-64,0,0,0,0,0,0,0,0
+81,CMP 126 Computer Technology and Applications,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,21-24,0,0,0,0,0,0,0,0
+82,CMP 126 Computer Technology and Applications,1,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,19-20,1,0,0,1,0,1,0,0
+83,CMP 126 Computer Technology and Applications,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19-20,0,0,0,0,0,0,0,0
+84,CMP 126 Computer Technology and Applications,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,19-20,0,0,0,0,0,0,0,0
+85,CMP 126 Computer Technology and Applications,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,35-64,1,0,1,0,1,0,0,0
+86,CMP 126 Computer Technology and Applications,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,25-34,1,1,1,0,1,1,1,1
+87,CMP 101 Computer Information Literacy,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,21-24,1,0,0,1,0,0,1,0
+88,CMP 126 Computer Technology and Applications,1,1,1,0,1,1,0,0,0,1,1,1,0,0,0,0,0,19-20,1,1,0,0,0,0,0,1
+89,CMP 126 Computer Technology and Applications,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,19-20,0,0,0,1,1,0,0,0
+90,CMP 101 Computer Information Literacy,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,19-20,0,0,0,0,0,0,0,0
+91,CMP 126 Computer Technology and Applications,1,1,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,21-24,0,0,0,0,1,1,0,0
